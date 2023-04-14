@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/marc/tensorrt_demo/find_101/custom_main_app/src/main.cpp
+dynamiclib.h
+/home/marc/tensorrt_demo/find_101/custom_main_app/src/dynamiclib.h
+iostream
+-
+
+/home/marc/tensorrt_demo/find_101/dynamiclib/install/include/dynamiclib.h
+

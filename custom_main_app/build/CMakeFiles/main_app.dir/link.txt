@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/main_app.dir/src/main.cpp.o  -o main_app  -Wl,-rpath,/home/marc/tensorrt_demo/find_101/dynamiclib/install/lib /home/marc/tensorrt_demo/find_101/dynamiclib/install/lib/libdynamiclib.so 

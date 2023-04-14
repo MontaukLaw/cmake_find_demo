@@ -1,0 +1,2 @@
+/home/marc/tensorrt_demo/find_101/dynamic_lib/install/lib/libdynamiclib.so
+/home/marc/tensorrt_demo/find_101/dynamic_lib/install/include/dynamiclib.h
